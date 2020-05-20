@@ -70,7 +70,7 @@ There are two versions of images : original resolution(Windows) and Deep Learnin
 Simply clone that repo and double click the .exe files in Windows_x130 and Windows to start test. 
 Be sure to carefully follow popped up instructions.
 The visualization tool is in progress and will be pushed to that repo shortly in the future.
-For now, to visualize your results please send the files in "answer" or "results" folder that created after your test to me(meow23571379).
+For now, to visualize your results please send the files in "answer" or "results" folder that created after your test to me([Bonnie Liu](mailto:meow23571379@gmail.com)).
 
 
 
