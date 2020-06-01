@@ -74,4 +74,57 @@ For now, to visualize your results please send the files in "answer" or "results
 
 
 
+
+## Details
+
+### 
+
+### Training dataset files
+
+[Ind]/[Soldier]/[Worker] : Both Castes / Soldier Only / Worker Only
+
+[trainfile]/[valfile]/[testfile] : training set/ validation set/ testing set
+
+[1]/[2]/[3] : experiment 1/ experiment 2/ experiment 3
+
+[]/[sub200]/[200aug] : 1000 pc/ sub-dataset 200pc/ 1000pc augmented from 200pc 
+
+BENCHMARK-LARGE_Ind_testfile_1.txt
+
+BENCHMARK-LARGE_Ind_testfile_soldier_1.txt
+
+BENCHMARK-LARGE_Ind_testfile_worker_1.txt
+
+BENCHMARK-LARGE_Ind_trainfile_1_200aug.txt
+
+BENCHMARK-LARGE_Ind_trainfile_1_sub200.txt
+
+BENCHMARK-LARGE_Ind_trainfile_2_200aug.txt
+
+BENCHMARK-LARGE_Ind_trainfile_2_sub200.txt
+
+BENCHMARK-LARGE_Ind_trainfile_3_200aug.txt
+
+BENCHMARK-LARGE_Ind_trainfile_3_sub200.txt
+
+BENCHMARK-LARGE_Ind_trainfile_soldier_1.txt
+
+BENCHMARK-LARGE_Ind_trainfile_worker_1.txt
+
+BENCHMARK-LARGE_Ind_valfile_1_200aug.txt
+
+BENCHMARK-LARGE_Ind_valfile_1_sub200.txt
+
+BENCHMARK-LARGE_Ind_valfile_2_200aug.txt
+
+BENCHMARK-LARGE_Ind_valfile_2_sub200.txt
+
+BENCHMARK-LARGE_Ind_valfile_3_200aug.txt
+
+BENCHMARK-LARGE_Ind_valfile_3_sub200.txt
+
+BENCHMARK-LARGE_Ind_valfile_soldier_1.txt
+
+BENCHMARK-LARGE_Ind_valfile_worker_1.txt
+
                       
