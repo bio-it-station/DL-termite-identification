@@ -104,8 +104,12 @@ BENCHMARK-LARGE_Ind_testfile_soldier_1.txt  ------ Only Soldier, Testset file of
 
 **confusion_matrix_100.jpg** : confusion matrix of testing epoch 100
 
-**[train] / [val] / [test] \_[acc] / [loss] \_E100** : training / validation / testing , accuracy / loss on epoch 100. 
+**[train] / [val] / [test] \_[acc] / [loss] \_E100** : training / validation / testing , accuracy / loss curves on epoch 100. 
 
-BENCHMARK-LARGE_Worker_1
+For example:
+
+BENCHMARK-LARGE_1_sub800/train_acc_E100.jpg ------ (Both Castes, Experiment 1, trained on subset 800 pc,) training accuracy of epoch 100.
+
+
 
                       
