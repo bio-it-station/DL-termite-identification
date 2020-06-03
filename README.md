@@ -86,7 +86,7 @@ For now, to visualize your results please send the files in "answer" or "results
 
 **[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
 
-**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc / 1000pc augmented from 200pc 
+**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location / 1000pc augmented from 200pc 
 
 For example:
 
@@ -98,7 +98,7 @@ BENCHMARK-LARGE_Ind_testfile_soldier_1.txt  ------ Only Soldier, Testset file of
 
 **[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
 
-**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc / 1000pc augmented from 200pc
+**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location/ 1000pc augmented from 200pc
 
 **100_weights.pt** : Trained weights on epoch 100 with pytorch
 
