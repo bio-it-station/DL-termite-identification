@@ -42,7 +42,7 @@ devices to facilitate the termite pest control management.
 
 ### For researchers to train and test on Deep Learning Models
 
-Please Clone this repo and unzip(tar) the tar/tgz files to see the full content.
+
 
 #### Requirements
 
@@ -62,7 +62,14 @@ Please Clone this repo and unzip(tar) the tar/tgz files to see the full content.
 1. Categories: *O. formosanus, C. formosanus, R.flaviceps, C. domesticus*.
 2. Number of images: 24000 pcs in total.(1000 pcs/Location, 3 Location/Caste, 2 Caste/Category,4 Categories.)
 
+#### Steps
 
+1. Please Clone this repo 
+2. Type the following command to pull down the big files.
+``` 
+git lfs pull
+```
+3. unzip(tar) the tar/tgz files to see the full content.
 
 
 ### For experts to test manually
