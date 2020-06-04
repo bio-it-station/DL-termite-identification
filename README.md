@@ -76,7 +76,7 @@ git lfs pull
 
 Please refer to https://github.com/meow23571379/Termite-Human-testing-version.
 
-There are two versions of images : original resolution(Windows) and Deep Learning view(Windows_x130).
+There are two versions of images : **original resolution(Windows) and Deep Learning view(Windows_x130)**.
 
 Simply clone that repo and double click the .exe files in Windows_x130 and Windows to start test. 
 Be sure to carefully follow popped up instructions.
