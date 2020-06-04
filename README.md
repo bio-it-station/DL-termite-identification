@@ -70,7 +70,10 @@ devices to facilitate the termite pest control management.
 git lfs pull
 ```
 3. unzip(tar) the tar/tgz files to see the full content.
-
+```
+tar -zxvf images.tgz
+tar -zxvf weights.tar.gz
+```
 
 ### For experts to test manually
 
