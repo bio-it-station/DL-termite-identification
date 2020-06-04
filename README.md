@@ -84,13 +84,13 @@ For now, to visualize your results please send the files in "answer" or "results
 
 ### Training dataset file name rules
 
-**[ ] / [Soldier] / [Worker]** : Both Castes / Soldier Only / Worker Only
+- **[ ] / [Soldier] / [Worker]** : Both Castes / Soldier Only / Worker Only
 
-**[trainfile] / [valfile] / [testfile]** : training set / validation set / testing set
+- **[trainfile] / [valfile] / [testfile]** : training set / validation set / testing set
 
-**[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
+- **[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
 
-**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location / 1000pc augmented from 200pc 
+- **[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location / 1000pc augmented from 200pc 
 
 For example:
 
@@ -98,17 +98,17 @@ BENCHMARK-LARGE_Ind_testfile_soldier_1.txt  ------ Only Soldier, Testset file of
 
 ### weights file name rules
 
-**[ ] / [Soldier] / [Worker]** : Both Castes / Soldier Only / Worker Only
+- **[ ] / [Soldier] / [Worker]** : Both Castes / Soldier Only / Worker Only
 
-**[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
+- **[1] / [2] / [3]** : experiment 1 / experiment 2 / experiment 3
 
-**[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location/ 1000pc augmented from 200pc
+- **[ ] / [sub200] / [200aug]** : 1000 pc / sub-dataset 200pc in each location/ 1000pc augmented from 200pc
 
-**100_weights.pt** : Trained weights on epoch 100 with pytorch
+- **100_weights.pt** : Trained weights on epoch 100 with pytorch
 
-**confusion_matrix_100.jpg** : confusion matrix of testing epoch 100
+- **confusion_matrix_100.jpg** : confusion matrix of testing epoch 100
 
-**[train] / [val] / [test] \_[acc] / [loss] \_E100** : training / validation / testing , accuracy / loss curves on epoch 100. 
+- **[train] / [val] / [test] \_[acc] / [loss] \_E100** : training / validation / testing , accuracy / loss curves on epoch 100. 
 
 For example:
 
