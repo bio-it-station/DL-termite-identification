@@ -40,7 +40,7 @@ devices to facilitate the termite pest control management.
 
 ## Usage
 
-### For researchers to train
+### For researchers to train and test on Deep Learning Models
 
 Please Clone this repo and unzip(tar) the tar/tgz files to see the full content.
 
@@ -65,7 +65,7 @@ Please Clone this repo and unzip(tar) the tar/tgz files to see the full content.
 
 
 
-### For experts to test
+### For experts to test manually
 
 Please refer to https://github.com/meow23571379/Termite-Human-testing-version.
 
