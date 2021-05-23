@@ -1,24 +1,10 @@
-# A robust deep learning based classification for the smartphone images of termite pest species
+# Termite pest identification method based on deep convolution neural network
 
-Code of the paper "A robust deep learning based classification for the smartphone images of termite pest species".
+Code of the paper "Termite pest identification method based on deep convolution neural network".
 
 ## Abstract 
 
-Termites are important urban pests, which cause economic and social impact on
-urban communities. An accurate and timely identification of termite species can help build
-effective control strategies. However, the termite identification requires expertise and could be
-labor-intensive. Despite recent deep neural network technologies have brought promise
-performance in pest recognition, the automatic termite recognition has still not been well studied.
-Since no off-the-shelf dataset consisting of smartphone-captured termite images was available,
-we collected four major termite pest species in various locations in Taiwan and acquired large
-number of termite images using a smartphone. In this work, we constructed a dataset with 24,000
-individual insect images of four termite species with physically variabilities in termite postures
-and conditions. Next, we implemented a termite classification system by using a deep learning
-based model, MobileNetV2, which is suitable for mobile vision applications. Our models
-achieve high accuracy of 0.947, 0.946, and 0.929 for images of soldier, worker, and both castes,
-respectively for classification. The results of present research demonstrate the potential for
-classification of termite species automatically and future applications with portable mobile
-devices to facilitate the termite pest control management.
+Several species of drywood termites, subterranean termites, and fungus-growing termites are major construction, gardening, and agriculture pests, causing extensive economic losses annually worldwide. Because no universal method is available for controlling all termites, correct species identification is crucial for termite management. Despite deep neural network technologies’ promising performance in pest recognition, a method for automatic termite recognition remains lacking. To develop an automated deep learning classifier for termite image recognition suitable for mobile applications, we used smartphones to acquire 18 000 original images each of four termite pest species: Kalotermitidae: Cryptotermes domesticus (Haviland); Rhinotermitidae: Coptotermes formosanus Shiraki and Reticulitermes flaviceps (Oshima); and Termitidae: Odontotermes formosanus (Shiraki). Each original image included multiple individuals, and we applied five image segmentation techniques for capturing individual termites. We used 24 000 individual termite images (4 species × 2 castes × 3 groups × 1000 images) for model development and testing. We implemented a termite classification system by using a deep learning–based model, MobileNetV2. Our models achieved high accuracy scores of 0.947, 0.946, and 0.929 for identifying soldiers, workers, and both castes, respectively, which is not significantly different from human expert performance. When model training images were reduced from 1000 to 200 per termite morphotype, classification accuracy significantly decreased. We further applied image augmentation techniques, including geometrical transformations and intensity transformations, to individual termite images. The results revealed that the same classification accuracy can be achieved by using 1000 augmented images derived from only 200 individual termite images, thus facilitating further model development on the basis of many fewer original images. Our image-based identification system can enable the selection of termite control tools for pest management professionals or homeowners.
 
 ## Accuracy and Result Details
 
